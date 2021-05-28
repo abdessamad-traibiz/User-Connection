@@ -1,0 +1,10 @@
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\bin\Debug\Connection.exe.config
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\bin\Debug\Connection.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\bin\Debug\Connection.pdb
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.csprojAssemblyReference.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.Form1.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.Properties.Resources.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.csproj.GenerateResource.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\Connection\obj\Debug\Connection.pdb
